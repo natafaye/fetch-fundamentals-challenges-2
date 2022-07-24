@@ -2,6 +2,12 @@
 
 Challenges for practicing using fetch and async/await to connect to a REST API backend.
 
+## Installing the Dependencies
+
+You'll need to install all the dependencies for the app by running this command.
+
+`npm install`
+
 ## Running the Backend
 
 The backend for these challenges uses [json-server](https://www.npmjs.com/package/json-server), a fake REST API.
