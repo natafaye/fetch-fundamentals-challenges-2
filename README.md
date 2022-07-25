@@ -17,3 +17,5 @@ Then you can start the fake backend by running this command.
 You'll need to run the backend in one terminal and the frontend (with `npm start`) in another.
 
 To change the delay on responses, you can edit the json-server.json file and change the delay property (measured in milliseconds)
+
+To reset the backend, open the fake-backend folder and replace the contents of the db.json file with the contents of the BACKUP.json file.

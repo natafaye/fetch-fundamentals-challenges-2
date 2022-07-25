@@ -10,11 +10,8 @@ import React, { useState } from 'react'
  * the Create Random Product button and WAIT at least 
  * a few seconds a new product should appear in the list
  * 
- * To reset the database open the fake-backend folder
- * and replace the contents of the db.json file
- * with the contents of the BACKUP.json file.
- * Then you'll need to stop (Ctrl + C) the backend
- * and start it again (npm run backend)
+ * To reset the database, open the fake-backend folder and replace the 
+ * contents of the db.json file with the contents of the BACKUP.json file.
  * 
  * If you add products and don't reset the database
  * it may effect the results of other challenges

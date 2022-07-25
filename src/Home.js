@@ -37,9 +37,7 @@ export default function Home() {
       </p>
       <p>
         To reset the backend, open the fake-backend folder and replace the 
-        contents of the db.json file with the contents of the BACKUP.json file. 
-        Then you'll need to stop the backend (Ctrl + C) 
-        and start it again (<code>npm run backend</code>)
+        contents of the db.json file with the contents of the BACKUP.json file.
       </p>
     </div>
   )

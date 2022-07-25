@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "backend": "json-server src/fake-backend/db.json"
+    "backend": "json-server --watch src/fake-backend/db.json"
   },
   "eslintConfig": {
     "extends": [

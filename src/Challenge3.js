@@ -10,11 +10,8 @@ import React, { useState } from 'react'
  * a delete button and WAIT a few seconds that product
  * should be deleted and no longer show up in the list
  * 
- * To reset the database:
- * Open the fake-backend folder and replace the contents 
- * of the db.json file with the contents of the BACKUP.json file.
- * Then you'll need to stop the backend (Ctrl + C)
- * and start it again (npm run backend)
+ * To reset the database, open the fake-backend folder and replace the 
+ * contents of the db.json file with the contents of the BACKUP.json file.
  * 
  * If you delete products and don't reset the database
  * it may effect the results of other challenges
